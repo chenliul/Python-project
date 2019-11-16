@@ -1,6 +1,5 @@
 import math_func
 import pytest
-import base64
 
 def test_add():
     assert math_func.add(7,3) == 10
